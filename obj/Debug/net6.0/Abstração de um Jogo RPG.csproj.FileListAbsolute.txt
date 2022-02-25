@@ -1,0 +1,15 @@
+G:\DIO\GFT #4\Abstração de um Jogo RPG\bin\Debug\net6.0\Abstração de um Jogo RPG.exe
+G:\DIO\GFT #4\Abstração de um Jogo RPG\bin\Debug\net6.0\Abstração de um Jogo RPG.deps.json
+G:\DIO\GFT #4\Abstração de um Jogo RPG\bin\Debug\net6.0\Abstração de um Jogo RPG.runtimeconfig.json
+G:\DIO\GFT #4\Abstração de um Jogo RPG\bin\Debug\net6.0\Abstração de um Jogo RPG.dll
+G:\DIO\GFT #4\Abstração de um Jogo RPG\bin\Debug\net6.0\ref\Abstração de um Jogo RPG.dll
+G:\DIO\GFT #4\Abstração de um Jogo RPG\bin\Debug\net6.0\Abstração de um Jogo RPG.pdb
+G:\DIO\GFT #4\Abstração de um Jogo RPG\obj\Debug\net6.0\Abstração de um Jogo RPG.csproj.AssemblyReference.cache
+G:\DIO\GFT #4\Abstração de um Jogo RPG\obj\Debug\net6.0\Abstração de um Jogo RPG.GeneratedMSBuildEditorConfig.editorconfig
+G:\DIO\GFT #4\Abstração de um Jogo RPG\obj\Debug\net6.0\Abstração de um Jogo RPG.AssemblyInfoInputs.cache
+G:\DIO\GFT #4\Abstração de um Jogo RPG\obj\Debug\net6.0\Abstração de um Jogo RPG.AssemblyInfo.cs
+G:\DIO\GFT #4\Abstração de um Jogo RPG\obj\Debug\net6.0\Abstração de um Jogo RPG.csproj.CoreCompileInputs.cache
+G:\DIO\GFT #4\Abstração de um Jogo RPG\obj\Debug\net6.0\Abstração de um Jogo RPG.dll
+G:\DIO\GFT #4\Abstração de um Jogo RPG\obj\Debug\net6.0\ref\Abstração de um Jogo RPG.dll
+G:\DIO\GFT #4\Abstração de um Jogo RPG\obj\Debug\net6.0\Abstração de um Jogo RPG.pdb
+G:\DIO\GFT #4\Abstração de um Jogo RPG\obj\Debug\net6.0\Abstração de um Jogo RPG.genruntimeconfig.cache
