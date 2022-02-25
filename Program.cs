@@ -1,4 +1,5 @@
 ﻿using System;
+using Abstração_de_um_Jogo_RPG.src.Entities;
 
 namespace dotnet_____poo
 {
@@ -6,11 +7,11 @@ namespace dotnet_____poo
         {
                 static void  Main(string[] args)
                 {
-                    string nome = "Ashe";
-                    int lvl = 30;
-                    string tipoHeroi = "Arqueira";
+                    Hero ashe =  new Hero("Ashe", 30, "Arqueira");
+                    Wizard wizard =  new Wizard("Fiora", 40, "Lutadora");
 
-                    Console.Write(nome + "  "  + lvl +  "  " +  tipoHeroi);
+                   Console.WriteLine(ashe.Attack());
+                   Console.WriteLine(wizard.Attack());
                 }            
         }
 }
